@@ -1,23 +1,79 @@
 {
-  "WTCSGNL": {
-    "name": "一號戒備信號",
-    "code": "TC1",
+  "WFIRE": {
+    "name": "火災危險警告（紅色）",
+    "code": "WFIRER",
     "actionCode": "ISSUE",
-    "issueTime": "2026-03-26T09:30:00+08:00",
-    "updateTime": "2026-03-26T10:10:00+08:00"
+    "issueTime": "2026-03-30T09:00:00+08:00",
+    "updateTime": "2026-03-30T09:00:00+08:00"
+  },
+  "WFROST": {
+    "name": "霜凍警告",
+    "code": "WFROST",
+    "actionCode": "ISSUE",
+    "issueTime": "2026-03-30T06:00:00+08:00",
+    "updateTime": "2026-03-30T06:00:00+08:00"
+  },
+  "WHOT": {
+    "name": "酷熱天氣警告",
+    "code": "WHOT",
+    "actionCode": "REISSUE",
+    "issueTime": "2026-03-30T11:00:00+08:00",
+    "updateTime": "2026-03-30T11:30:00+08:00"
+  },
+  "WCOLD": {
+    "name": "寒冷天氣警告",
+    "code": "WCOLD",
+    "actionCode": "REISSUE",
+    "issueTime": "2026-03-30T05:00:00+08:00",
+    "updateTime": "2026-03-30T05:30:00+08:00"
+  },
+  "WMSGNL": {
+    "name": "強烈季候風信號",
+    "code": "WMSGNL",
+    "actionCode": "ISSUE",
+    "issueTime": "2026-03-30T08:00:00+08:00",
+    "updateTime": "2026-03-30T08:00:00+08:00"
   },
   "WRAIN": {
-    "name": "黃色暴雨警告信號",
-    "code": "WRAINA",
+    "name": "黑色暴雨警告信號",
+    "code": "WRAINB",
     "actionCode": "ISSUE",
-    "issueTime": "2026-03-26T10:05:00+08:00",
-    "updateTime": "2026-03-26T10:05:00+08:00"
+    "issueTime": "2026-03-30T10:15:00+08:00",
+    "updateTime": "2026-03-30T10:15:00+08:00"
+  },
+  "WFNTSA": {
+    "name": "新界北部水浸特別報告",
+    "code": "WFNTSA",
+    "actionCode": "REISSUE",
+    "issueTime": "2026-03-30T09:45:00+08:00",
+    "updateTime": "2026-03-30T10:20:00+08:00"
+  },
+  "WL": {
+    "name": "山泥傾瀉警告",
+    "code": "WL",
+    "actionCode": "ISSUE",
+    "issueTime": "2026-03-30T10:30:00+08:00",
+    "updateTime": "2026-03-30T10:30:00+08:00"
+  },
+  "WTCSGNL": {
+    "name": "十號颶風信號",
+    "code": "TC10",
+    "actionCode": "ISSUE",
+    "issueTime": "2026-03-30T12:00:00+08:00",
+    "updateTime": "2026-03-30T12:00:00+08:00"
+  },
+  "WTMW": {
+    "name": "海嘯警告",
+    "code": "WTMW",
+    "actionCode": "ISSUE",
+    "issueTime": "2026-03-30T07:30:00+08:00",
+    "updateTime": "2026-03-30T07:30:00+08:00"
   },
   "WTS": {
     "name": "雷暴警告",
     "code": "WTS",
     "actionCode": "EXTEND",
-    "issueTime": "2026-03-26T09:00:00+08:00",
-    "updateTime": "2026-03-26T10:15:00+08:00"
+    "issueTime": "2026-03-30T09:00:00+08:00",
+    "updateTime": "2026-03-30T10:00:00+08:00"
   }
 }
