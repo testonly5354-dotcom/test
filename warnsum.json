@@ -1,0 +1,23 @@
+{
+  "WTCSGNL": {
+    "name": "一號戒備信號",
+    "code": "TC1",
+    "actionCode": "ISSUE",
+    "issueTime": "2026-03-26T09:30:00+08:00",
+    "updateTime": "2026-03-26T10:10:00+08:00"
+  },
+  "WRAIN": {
+    "name": "黃色暴雨警告信號",
+    "code": "WRAINA",
+    "actionCode": "ISSUE",
+    "issueTime": "2026-03-26T10:05:00+08:00",
+    "updateTime": "2026-03-26T10:05:00+08:00"
+  },
+  "WTS": {
+    "name": "雷暴警告",
+    "code": "WTS",
+    "actionCode": "EXTEND",
+    "issueTime": "2026-03-26T09:00:00+08:00",
+    "updateTime": "2026-03-26T10:15:00+08:00"
+  }
+}
