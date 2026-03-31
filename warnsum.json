@@ -1,9 +1,3 @@
 {
-  "WTS": {
-    "name": "雷暴警告",
-    "code": "WTS",
-    "actionCode": "EXTEND",
-    "issueTime": "2026-03-30T09:00:00+08:00",
-    "updateTime": "2026-03-30T10:00:00+08:00"
-  }
+
 }
