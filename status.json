@@ -1,6 +1,185 @@
 {
-    "status": 0,
-    "message": "Special train service arrangements are now in place on this line. Please click here for more information.",
-    "url": "https://www.mtr.com.hk/alert/alert_title_wap.html",
-    "cur_time": "2019-06-13 17:34:58"
+  "sys_time": "2026-04-01 14:58:21",
+  "curr_time": "2026-04-01 14:58:19",
+  "data": {
+    "SIL-WCH": {
+      "curr_time": "2026-04-01 14:58:19",
+      "sys_time": "2026-04-01 14:58:21",
+      "UP": [
+        {
+          "seq": "1",
+          "dest": "SOH",
+          "plat": "1",
+          "time": "2026-04-01 15:00:19",
+          "ttnt": "2",
+          "valid": "Y",
+          "source": "-"
+        },
+        {
+          "seq": "2",
+          "dest": "SOH",
+          "plat": "1",
+          "time": "2026-04-01 15:06:19",
+          "ttnt": "8",
+          "valid": "Y",
+          "source": "-"
+        },
+        {
+          "seq": "3",
+          "dest": "SOH",
+          "plat": "1",
+          "time": "2026-04-01 15:12:19",
+          "ttnt": "14",
+          "valid": "Y",
+          "source": "-"
+        },
+        {
+          "seq": "4",
+          "dest": "SOH",
+          "plat": "1",
+          "time": "2026-04-01 15:18:19",
+          "ttnt": "20",
+          "valid": "Y",
+          "source": "-"
+        }
+      ],
+      "DOWN": [
+        {
+          "seq": "1",
+          "dest": "ADM",
+          "plat": "2",
+          "time": "2026-04-01 14:58:19",
+          "ttnt": "0",
+          "valid": "Y",
+          "source": "-"
+        },
+        {
+          "seq": "2",
+          "dest": "ADM",
+          "plat": "2",
+          "time": "2026-04-01 15:04:19",
+          "ttnt": "6",
+          "valid": "Y",
+          "source": "-"
+        },
+        {
+          "seq": "3",
+          "dest": "ADM",
+          "plat": "2",
+          "time": "2026-04-01 15:10:19",
+          "ttnt": "12",
+          "valid": "Y",
+          "source": "-"
+        },
+        {
+          "seq": "4",
+          "dest": "ADM",
+          "plat": "2",
+          "time": "2026-04-01 15:16:19",
+          "ttnt": "18",
+          "valid": "Y",
+          "source": "-"
+        }
+      ]
+    },
+    "EAL-TAW": {
+      "curr_time": "2026-04-01 17:10:24",
+      "sys_time": "2026-04-01 17:10:28",
+      "UP": [
+        {
+          "seq": "1",
+          "dest": "LOW",
+          "plat": "1",
+          "time": "2026-04-01 17:11:24",
+          "ttnt": "1",
+          "valid": "Y",
+          "source": "-",
+          "route": "",
+          "timeType": "A"
+        },
+        {
+          "seq": "2",
+          "dest": "LOW",
+          "plat": "1",
+          "time": "2026-04-01 17:15:24",
+          "ttnt": "5",
+          "valid": "Y",
+          "source": "-",
+          "route": "",
+          "timeType": "A"
+        },
+        {
+          "seq": "3",
+          "dest": "LMC",
+          "plat": "1",
+          "time": "2026-04-01 17:18:24",
+          "ttnt": "8",
+          "valid": "Y",
+          "source": "-",
+          "route": "",
+          "timeType": "A"
+        },
+        {
+          "seq": "4",
+          "dest": "LOW",
+          "plat": "1",
+          "time": "2026-04-01 17:21:24",
+          "ttnt": "11",
+          "valid": "Y",
+          "source": "-",
+          "route": "",
+          "timeType": "A"
+        }
+      ],
+      "DOWN": [
+        {
+          "seq": "1",
+          "dest": "ADM",
+          "plat": "2",
+          "time": "2026-04-01 17:11:24",
+          "ttnt": "1",
+          "valid": "Y",
+          "source": "-",
+          "route": "",
+          "timeType": "A"
+        },
+        {
+          "seq": "2",
+          "dest": "ADM",
+          "plat": "2",
+          "time": "2026-04-01 17:14:24",
+          "ttnt": "4",
+          "valid": "Y",
+          "source": "-",
+          "route": "",
+          "timeType": "A"
+        },
+        {
+          "seq": "3",
+          "dest": "ADM",
+          "plat": "2",
+          "time": "2026-04-01 17:16:24",
+          "ttnt": "6",
+          "valid": "Y",
+          "source": "-",
+          "route": "",
+          "timeType": "A"
+        },
+        {
+          "seq": "4",
+          "dest": "ADM",
+          "plat": "2",
+          "time": "2026-04-01 17:19:24",
+          "ttnt": "9",
+          "valid": "Y",
+          "source": "-",
+          "route": "",
+          "timeType": "A"
+        }
+      ]
+    }
+  },
+  "isdelay": "N",
+  "status": 1,
+  "message": "successful"
 }
