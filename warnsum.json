@@ -1,9 +1,3 @@
 {
-  "WHOT": {
-    "name": "酷熱天氣警告",
-    "code": "WHOT",
-    "actionCode": "REISSUE",
-    "issueTime": "2026-03-30T11:00:00+08:00",
-    "updateTime": "2026-03-30T11:30:00+08:00"
-  }
+
 }
